@@ -1,9 +1,3 @@
-# Use this space to code along with the readme
-
-
-
-
-
 def say_hello_x_times
       phrase = "Hello World!"
       puts phrase
